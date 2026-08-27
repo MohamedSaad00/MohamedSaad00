@@ -1,9 +1,7 @@
-<h1 align="center">Mohamed Saad Elden Kareem</h1>
-
-<p align="center">
-  <b>Full-Stack Developer &middot; MERN</b><br>
-  Cairo, Egypt
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Mohamed Saad Elden Kareem - Full-Stack Developer, MERN. Cairo, Egypt." src="assets/banner.png">
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedsaadx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
