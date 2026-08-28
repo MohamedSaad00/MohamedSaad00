@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Mohamed Saad Elden Kareem - Full-Stack Developer, MERN. Cairo, Egypt." src="assets/banner.png">
-</picture>
+<h1 align="center">Mohamed Saad Elden Kareem</h1>
+
+<p align="center">
+  <b>Full-Stack Developer &middot; MERN</b><br>
+  Cairo, Egypt
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedsaadx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -22,11 +24,11 @@
 <p>
 <a href="https://ejaz0.com/ar"><img alt="ejaz0.com" src="https://img.shields.io/badge/live-ejaz0.com-8E2B32?style=flat-square&labelColor=1F2328"></a>
 <img alt="role" src="https://img.shields.io/badge/role-sole_developer-1F2328?style=flat-square">
-<img alt="since" src="https://img.shields.io/badge/Jun_2026-present-1F2328?style=flat-square">
+<img alt="since" src="https://img.shields.io/badge/Jun_2026-Aug_2026-1F2328?style=flat-square">
 </p>
 
-Client work, delivered end to end from specification through production, and now under a
-maintenance engagement. Arabic (RTL primary), English, and French.
+Client work, delivered end to end from specification through production.
+Arabic (RTL primary), English, and French.
 
 <p>
 <img alt="97,000 lines of PHP" src="https://img.shields.io/badge/lines_of_PHP-97,000-8E2B32?style=flat-square&labelColor=4A5058">
