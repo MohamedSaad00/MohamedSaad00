@@ -138,6 +138,18 @@ component and nothing else. Ships as a web app and as an installable WordPress p
 &nbsp;<img alt="JavaScript" src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 &nbsp;— booking flow, ITI team project
 
+### Mobile
+
+**[hydrate-water-reminder](https://github.com/MohamedSaad00/hydrate-water-reminder)**
+&nbsp;<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
+<img alt="Material 3" src="https://img.shields.io/badge/Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white">
+<a href="https://github.com/MohamedSaad00/hydrate-water-reminder/releases/latest"><img alt="Download APK" src="https://img.shields.io/badge/download-APK-3DDC84?style=flat-square&logo=android&logoColor=white"></a>
+<br>An offline Android app that turns a personal daily water target into cup-by-cup reminders,
+warns before drinking too fast, and runs fully in English and Arabic (RTL) with light and dark
+themes. Built with an AI-assisted workflow using Claude Code: I set the requirements, tested every
+build on a real phone, and decided what shipped.
+
 ### Foundations
 
 **[Maze-Game](https://github.com/MohamedSaad00/Maze-Game)**
