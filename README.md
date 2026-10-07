@@ -27,17 +27,8 @@
 <img alt="since" src="https://img.shields.io/badge/Jun_2026-Aug_2026-1F2328?style=flat-square">
 </p>
 
-Client work, delivered end to end from specification through production.
-Arabic (RTL primary), English, and French.
-
-<p>
-<img alt="97,000 lines of PHP" src="https://img.shields.io/badge/lines_of_PHP-97,000-8E2B32?style=flat-square&labelColor=4A5058">
-<img alt="404 test files" src="https://img.shields.io/badge/test_files-404-8E2B32?style=flat-square&labelColor=4A5058">
-<img alt="23 models" src="https://img.shields.io/badge/models-23-8E2B32?style=flat-square&labelColor=4A5058">
-<img alt="50 migrations" src="https://img.shields.io/badge/migrations-50-8E2B32?style=flat-square&labelColor=4A5058">
-<img alt="68 admin resources" src="https://img.shields.io/badge/admin_resources-68-8E2B32?style=flat-square&labelColor=4A5058">
-<img alt="8 service Docker stack" src="https://img.shields.io/badge/Docker_services-8-8E2B32?style=flat-square&labelColor=4A5058">
-</p>
+Client work, delivered end to end from specification through production in August 2026;
+I am still on call for occasional maintenance. Arabic (RTL primary), English, and French.
 
 <p>
 <img alt="PHP" src="https://img.shields.io/badge/PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white">
@@ -152,7 +143,7 @@ component and nothing else. Ships as a web app and as an installable WordPress p
 **[Maze-Game](https://github.com/MohamedSaad00/Maze-Game)**
 &nbsp;<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
 <img alt="SDL2" src="https://img.shields.io/badge/SDL2-1F1F1F?style=flat-square&logoColor=white">
-&nbsp;— 3D maze on a raycasting engine written from scratch: textured walls, sprites, collision, minimap, weather
+&nbsp;— 3D maze shooter on a raycasting engine written from scratch: textured walls, floor and ceiling, ghosts to shoot, three lives, a win and game-over screen, minimap, rain
 
 **[TinyWins](https://github.com/MohamedSaad00/TinyWins)**
 &nbsp;<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
