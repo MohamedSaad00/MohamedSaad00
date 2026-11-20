@@ -15,7 +15,7 @@
 
 <p align="center">
   I build AI-first. I own the specification, the architecture and the testing;<br>
-  Claude Code, OpenAI Codex and Gemini write most of the code; nothing ships without CI, tests and a hands-on check.
+  Claude Code and Codex write most of the code; nothing ships without CI, tests and a hands-on check.
 </p>
 
 ---
@@ -238,8 +238,7 @@ build on a real phone, and decided what shipped.
 
 **AI tooling**<br>
 <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
-<img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white">
-<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img alt="Codex" src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white">
 <img alt="MCP" src="https://img.shields.io/badge/MCP-1F2328?style=flat-square">
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
 
