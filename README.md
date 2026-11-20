@@ -1,21 +1,55 @@
 <h1 align="center">Mohamed Saad Elden Kareem</h1>
 
 <p align="center">
-  <b>Full-Stack Developer &middot; MERN</b><br>
+  <b>AI-Native Full-Stack Developer &middot; AI Automation &amp; Integrations</b><br>
   Cairo, Egypt
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedsaadx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohamed.saadx4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-8E2B32?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://el-ahd.org"><img alt="el-ahd — live" src="https://img.shields.io/badge/Live-el--ahd.org-1F2328?style=for-the-badge"></a>
   <a href="https://ejaz0.com/ar"><img alt="Ejaz — live" src="https://img.shields.io/badge/Live-ejaz0.com-1F2328?style=for-the-badge"></a>
   <a href="https://provelt-final.onrender.com/"><img alt="ProveIt — live" src="https://img.shields.io/badge/Live-ProveIt-1F2328?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  MERN by training; whatever the problem actually needs by preference.<br>
-  The last thing I shipped was a Laravel platform, because Laravel was the right answer for it.
+  I build AI-first. I own the specification, the architecture and the testing;<br>
+  Claude Code, OpenAI Codex and Gemini write most of the code; nothing ships without CI, tests and a hands-on check.
 </p>
+
+---
+
+## 🏛️ &nbsp;el-ahd.org — Arabic site and admin panel for a rights foundation
+
+<p>
+<a href="https://el-ahd.org"><img alt="el-ahd.org" src="https://img.shields.io/badge/live-el--ahd.org-8E2B32?style=flat-square&labelColor=1F2328"></a>
+<img alt="role" src="https://img.shields.io/badge/role-sole_developer-1F2328?style=flat-square">
+<img alt="when" src="https://img.shields.io/badge/Oct_2026-Nov_2026-1F2328?style=flat-square">
+<img alt="private repo" src="https://img.shields.io/badge/repo-private-4A5058?style=flat-square">
+</p>
+
+Client work for Al-Ahd Foundation, from first commit to production in under a week. An Arabic,
+right-to-left public site with statements, articles, videos and profiles; workshops with seat limits
+and an admin approval flow (the last seat is row-locked, so a workshop can never be overbooked);
+membership, contact and legal-aid forms behind a captcha and rate limiting; a double-opt-in
+newsletter with weekly or monthly digests; and Arabic-normalised search.
+
+<p>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img alt="Payload CMS" src="https://img.shields.io/badge/Payload_CMS_3-000000?style=flat-square&logo=payloadcms&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+> How it was built: I wrote the specification and the architecture decisions, split the work into
+> issues, ran Claude Code agents on them in parallel with automated code and security review before
+> each merge, and tested every release by hand against a checklist. About 50 test files run in CI on
+> every pull request; deployment is one script with a health check and automatic rollback.
 
 ---
 
@@ -47,8 +81,8 @@ Async work runs through Horizon, unfinished features sit behind Pennant flags, e
 Sentry, and every change passes Larastan and CI. Deployment and rollback are scripted, with
 runbooks for backup and incident response.
 
-> I had not written a line of Laravel before this project. I learned it because it fit the problem
-> better than the stack I already knew — that trade is usually worth making.
+> I had not written a line of Laravel before this project. I chose it because a content-heavy
+> product with a full admin panel fit it better than the stack I already knew, and built it AI-first.
 
 ---
 
@@ -78,6 +112,26 @@ the sessions and question sets, and parses the candidate's CV to tailor them.
 </p>
 
 The repository is private — it is the team's work, not only mine. The live app is above.
+
+---
+
+## ⚡ &nbsp;Automations I run every day
+
+**Job-alert bot** &nbsp;<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="asyncio" src="https://img.shields.io/badge/asyncio-1F2328?style=flat-square">
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+<img alt="private repo" src="https://img.shields.io/badge/repo-private-4A5058?style=flat-square">
+<br>Watches job boards around the clock, filters postings by seniority, years, stack and applicant
+count, and sends each match to Telegram with a ready cover note. Rate-limit budget with exponential
+back-off, de-duplication, retries, and a supervisor that restarts it when its heartbeat stops.
+
+**Freelance-project watcher** &nbsp;<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="private repo" src="https://img.shields.io/badge/repo-private-4A5058?style=flat-square">
+<br>Sends each new project on a freelance marketplace to Telegram within seconds, with a proposal
+draft ready to paste; failed messages are stored and resent after network drops.
+
+Both built AI-first with Claude Code.
 
 ---
 
@@ -182,6 +236,13 @@ build on a real phone, and decided what shipped.
 
 ## 🧰 &nbsp;Stack
 
+**AI tooling**<br>
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
+<img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white">
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img alt="MCP" src="https://img.shields.io/badge/MCP-1F2328?style=flat-square">
+<img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white">
+
 **Languages**<br>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -245,8 +306,7 @@ build on a real phone, and decided what shipped.
 </p>
 
 Before all of that: a law degree, four years freelancing as a graphic designer, and two years in
-HR. The design years are why I care how a thing reads. The law years are why I read the
-specification twice.
+HR. The design years are why I care how a thing reads.
 
 ---
 
